@@ -1,7 +1,5 @@
 ### 👋 BMS
 
-#### DevOps · Homelab Infrastructure · Backend · Local AI
-
 ---
 
 #### 🚀 Interests
