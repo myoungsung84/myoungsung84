@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👋 Hi, I'm BMS
 
-<!--
-**myoungsung84/myoungsung84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+홈랩 인프라 · DevOps · 백엔드 개발자  
+Building homelab infrastructure and distributed systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+
+- 🏠 Homelab Infrastructure
+- ☁ Kubernetes / Cloud Native
+- 🔐 Security / Observability
+- 🤖 Local AI / LLM
+- ⚡ Automation & Developer Tools
+
+---
+
+## 🧠 Programming Languages
+
+- TypeScript / JavaScript
+- PHP
+- Java
+- Kotlin
+- Swift / Objective-C
+- Python
+- C
+- Solidity
+
+---
+
+## ⚡ Tech Stack
+
+### 🖥 Backend / Server
+- Node.js
+- PHP (CodeIgniter4)
+
+### 📱 Mobile
+- Android (Kotlin)
+- iOS (Swift, Objective-C)
+
+### ☁ DevOps / Infrastructure
+- Docker
+- Kubernetes (k3s)
+- Nginx
+- Linux / Ubuntu
+- Cloudflare (DNS / WAF / TLS)
+- Reverse Proxy / HTTPS
+
+### 📊 Observability / Data
+- Elasticsearch / Kibana
+- Prometheus / Grafana
+- Redis
+- MariaDB
+
+### 🤖 AI / LLM (Studying)
+- llama.cpp
+- LoRA fine-tuning
+- Local inference pipeline
+- Whisper
+
+---
+
+## 🛠 Projects
+
+### 🛠 Tools Hub
+개발자를 위한 유틸리티 서비스  
+👉 https://tools.hello-ms.co.kr
+
+### ☁ Personal Homelab
+- Kubernetes 기반 개인 클라우드 환경
+- Observability / Security / Automation 구축
+- Local AI inference 환경 구성
+
+### 💻 Desktop Apps
+- Electron 기반 자동화 도구
+- 개발 생산성 도구
+
+---
+
+## 🔗 Links
+
+🌐 https://tools.hello-ms.co.kr
