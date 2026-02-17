@@ -1,19 +1,15 @@
-# 👋 BMS
+### 👋 BMS
 
-홈랩 인프라 · DevOps · Backend  
-Building homelab infrastructure & distributed systems
+#### DevOps · Homelab Infrastructure · Backend · Local AI
 
 ---
 
-### 🚀 Interests
-Kubernetes · Cloud Native · Security · Observability · Local AI · Automation
+#### 🚀 Interests
+Kubernetes · Cloud Native · Security · Observability · Automation · Local LLM
 
-### 🧠 Languages
+#### 🧠 Languages
 TypeScript · PHP · Java · Kotlin · Swift · Python · C · Solidity
 
-### ⚡ Stack
-Docker · Kubernetes(k3s) · Linux · Nginx · Cloudflare ·  
+#### ⚡ Stack
+Docker · Kubernetes (k3s) · Linux · Nginx · Cloudflare ·  
 Redis · MariaDB · Elasticsearch · Prometheus · Grafana
-
-### 🛠 Projects
-👉 https://tools.hello-ms.co.kr
